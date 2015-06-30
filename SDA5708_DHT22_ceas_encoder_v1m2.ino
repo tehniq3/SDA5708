@@ -1208,25 +1208,6 @@ int setyear () {
     }
 Serial.println(setyeartemp);
 
-/*
-if (setyeartemp < 2014) print2display("year2014");
-if (setyeartemp == 2015) print2display("year2015");
-if (setyeartemp == 2016) print2display("year2016");
-if (setyeartemp == 2017) print2display("year2017");
-if (setyeartemp == 2018) print2display("year2018");
-if (setyeartemp == 2019) print2display("year2019");
-if (setyeartemp == 2020) print2display("year2020");
-if (setyeartemp == 2021) print2display("year2021");
-if (setyeartemp == 2022) print2display("year2022");
-if (setyeartemp == 2022) print2display("year2023");
-if (setyeartemp == 2022) print2display("year2024");
-if (setyeartemp == 2022) print2display("year2025");
-if (setyeartemp == 2022) print2display("year2026");
-if (setyeartemp == 2022) print2display("year2027");
-if (setyeartemp == 2022) print2display("year2028");
-if (setyeartemp == 2022) print2display("year2029");
-if (setyeartemp >= 2030) print2display("year203+");
-*/
 int anul = setyeartemp -2000;
 print2display("year20");
 
