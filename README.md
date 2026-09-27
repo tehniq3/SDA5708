@@ -8,3 +8,5 @@ use SDA5708 display with Arduino board
 ![base schematic](http://1.bp.blogspot.com/-yChWtL58LC8/VZJQ0B58cxI/AAAAAAAANtI/xeR35yev96E/s1600/arduino_SDA5708.png)
 
 ![full schematic](http://4.bp.blogspot.com/-M70nfJF766M/VZJRMo4hXtI/AAAAAAAANtg/taGITP1JKz4/s1600/arduino_SDA5708_DHT22_DS3231_KY040.png)
+
+![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEzX7_OUxrtVkW4NBr9o9tY4_zPOhhvLYsxwHL3NjNFcpmYFv2CbkkDI6SNTCE74M_wcIlU5G_ijzS6u4z_uY3Udfcy81AyqdP_VEVwg1XvZt2i6OErxj1LbfEO5CQupqxukUxQ0lciQUO/s1600/SDA5708_DHT22_01.jpg)
